@@ -2,7 +2,7 @@
 
 $vinosViniedos = [
     "malbec" => [
-        ["variedad" => "Seco" , "cantidad" => 50 , "anioProduccion" => 1995 , "precioUnidad" => 799,],
+        ["variedad" => "Seco" , "cantidad" => 50 , "anioProduccion" => 1995 , "precioUnidad" => 799],
         ["variedad" => "Dulce" , "cantidad" => 100 , "anioProduccion" => 1889 , "precioUnidad" => 859 ],
         ["variedad" => "Semidulce" , "cantidad" => 215 , "anioProduccion" => 1200 , "precioUnidad" => 1989 ]
         ]
